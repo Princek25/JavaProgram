@@ -1,9 +1,9 @@
-package com.bridgelabz.practiceproblem;
+package com.w3resource.basicpart1;
 import java.util.Scanner;
 
 // Area and Perimeter of Rectangle with User Input
 
-public class Question2 {
+public class Question13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input Length");

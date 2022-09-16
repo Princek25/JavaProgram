@@ -1,4 +1,4 @@
-package com.javatpoint.controlstatement;
+package com.javatpoint.controlstatement.ifelse;
 import java.util.Scanner;
 
 // A year is leap, if it is divisible by 4 and 400. But, not by 100.

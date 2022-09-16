@@ -1,9 +1,9 @@
-package com.bridgelabz.practiceproblem;
+package com.w3resource.basicpart1;
 import java.util.Scanner;
 
 // Swapping two numbers using user input
 
-public class Question4 {
+public class Question15 {
     public static void main(String[] args) {
         int a,b,c;
         Scanner sc = new Scanner(System.in);

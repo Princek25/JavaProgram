@@ -1,2 +1,16 @@
-package com.javatpoint.oopsconcept.objectandclass;public class Student {
+package com.javatpoint.oopsconcept.objectandclass;
+
+//1) Object and Class Example: Initialization through reference
+
+class Student {
+    int id;  // instance or non-static variable
+    String name;
+
+    public static void main(String[] args) {
+        Student student = new Student();  // object-> student
+        System.out.println(student.id);  // accessing member through reference variable
+        System.out.println(student.name);
+
+
+    }
 }

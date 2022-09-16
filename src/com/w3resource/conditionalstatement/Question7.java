@@ -1,7 +1,9 @@
 package com.w3resource.conditionalstatement;
 import java.util.Scanner;
 
-public class Question6 {
+// incomplete
+
+public class Question7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input a month number 1 to 12 ");

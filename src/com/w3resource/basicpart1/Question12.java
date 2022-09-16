@@ -1,9 +1,9 @@
-package com.bridgelabz.practiceproblem;
+package com.w3resource.basicpart1;
 import java.util.Scanner;
 
 // Average of three numbers with user input
 
-public class Question1 {
+public class Question12 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input First Number");

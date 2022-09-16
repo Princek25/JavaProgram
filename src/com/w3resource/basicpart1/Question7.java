@@ -1,4 +1,4 @@
-package com.bridgelabz.practiceproblem;
+package com.w3resource.basicpart1;
 import java.util.Scanner;
 
 // Table with for loop or without for loop

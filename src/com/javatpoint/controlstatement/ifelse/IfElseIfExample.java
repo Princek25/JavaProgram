@@ -1,4 +1,4 @@
-package com.javatpoint.controlstatement;
+package com.javatpoint.controlstatement.ifelse;
 
 //Java Program to demonstrate the use of If else-if ladder.
 //It is a program of grading system for fail, D grade, C grade, B grade, A grade and A+.

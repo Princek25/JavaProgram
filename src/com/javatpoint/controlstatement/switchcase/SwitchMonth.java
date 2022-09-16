@@ -1,6 +1,6 @@
 package com.javatpoint.controlstatement.switchcase;
 
-public class SwitchExample {
+public class SwitchMonth {
     public static void main(String[] args) {
         int month = 5;
         String monthString = " ";

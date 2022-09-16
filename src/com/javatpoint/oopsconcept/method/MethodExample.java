@@ -1,4 +1,4 @@
-package com.javatpoint.objectclass.method;
+package com.javatpoint.oopsconcept.method;
 
 class Test{
     static void display(){

@@ -1,4 +1,4 @@
-package com.javatpoint.controlstatement;
+package com.javatpoint.controlstatement.ifelse;
 
 public class NestedIfExample {
     public static void main(String[] args) {

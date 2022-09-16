@@ -1,4 +1,4 @@
-package com.bridgelabz.practiceproblem;
+package com.w3resource.basicpart1;
 import java.util.Scanner;
 
 // Taking two user input to print addition subtraction division multiplication and remainder

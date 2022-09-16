@@ -1,9 +1,7 @@
-package com.bridgelabz.practiceproblem;
+package com.w3resource.conditionalstatement;
 import java.util.Scanner;
 
-// Write a Java program to get a number from the user and print whether it is positive or negative
-
-public class Question5 {
+public class Question1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input a number");
@@ -14,8 +12,5 @@ public class Question5 {
         else{
             System.out.println("Negative Number");
         }
-
-
-
     }
 }
