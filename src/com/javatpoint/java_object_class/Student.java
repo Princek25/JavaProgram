@@ -1,6 +1,6 @@
 package com.javatpoint.java_object_class;
 
-//1) Object and Class Example: Initialization through reference
+// Topic - Initialization of object  through reference variable
 
 class Student {
     int id;  // instance or non-static variable
