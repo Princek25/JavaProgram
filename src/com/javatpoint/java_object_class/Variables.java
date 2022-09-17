@@ -1,4 +1,4 @@
-package com.bridgelabz.basics;
+package com.javatpoint.java_object_class;
 
 public class Variables {
     static int b = 20; // Static variable
